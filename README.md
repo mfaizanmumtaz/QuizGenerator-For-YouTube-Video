@@ -25,7 +25,7 @@ This project is a FastAPI application that allows users to generate multiple-cho
 
    ```bash
    git clone https://github.com/mfaizanmumtaz/QuizGenerator-Using-LangChain-and-FastAPI.git
-   cd mcq-generator
+   cd QuizGenerator-Using-LangChain-and-FastAPI
    ```
 
 2. **Create a virtual environment (optional but recommended):**
